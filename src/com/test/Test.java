@@ -15,6 +15,8 @@ class Test {
 		System.out.println("Hello5");
 		
 		System.out.println("New1");
+		
+		System.out.println("New2");
 	}
 
 }
