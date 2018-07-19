@@ -17,6 +17,8 @@ class Test {
 		System.out.println("New1");
 		
 		System.out.println("New2");
+		
+		System.out.println("New3");
 	}
 
 }
